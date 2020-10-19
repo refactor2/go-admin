@@ -16,3 +16,4 @@ config/settings.dev.yml.log
 config/settings.b.dev.yml
 cmd/migrate/migration/version_local/*
 config/settings.yml
+.DS_Store
