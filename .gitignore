@@ -14,6 +14,5 @@ config/settings.dev.*.yml.log
 temp/logs
 config/settings.dev.yml.log
 config/settings.b.dev.yml
-cmd/migrate/migration/version_local/*
-config/settings.yml
-.DS_Store
+cmd/migrate/migration/version-local/*
+!cmd/migrate/migration/version-local/doc.go
